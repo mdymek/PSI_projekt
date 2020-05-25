@@ -5,6 +5,7 @@ Uniwersytet Jagielloński
 Małgorzata Dymek  
 Informatyka, rok III  
 
+[Link](https://colab.research.google.com/drive/1T-HSNeRM9lAr9kemOnkABcz6c-IigIr9?usp=sharing) do zeszytu na Colabie.  
 Celem projektu jest zbudowanie i porównanie kilku modelów diagnozujących przewlekłą chorobę nerek na podstawie zbioru danych [Chronic Kidney Disease dataset](https://www.kaggle.com/mansoordaku/ckdisease).
 
 
