@@ -10,7 +10,12 @@ Celem projektu jest zbudowanie i porównanie kilku modelów diagnozujących prze
 
 ### Plan pracy:
 - [x] Proces przetwarzania danych.
-- [ ] Proces modelowania (znajdowania optymalnych parametrów).
-- [ ] Porównanie modeli.
-- [ ] Wizualizacja wyników.
+- [x] Modele proste
+  - [x] Proces modelowania (znajdowania optymalnych parametrów).
+  - [x] Porównanie modeli.
+  - [x] Wizualizacja wyników.
+- [ ] Sieci neuronowe
+  - [ ] Proces modelowania.
+  - [ ] Porównanie modeli.
+  - [ ] Wizualizacja wyników.
 - [ ] Podsumowanie pracy
